@@ -28,13 +28,7 @@
       ]
     },
 
-    // "baseUrl": ".",
-    // "paths": {
-    //   "@tanstack/react-query": ["node_modules/@tanstack/react-query/index.d.ts"]
-    // }
-
-    //tanstack
-    
+     
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
